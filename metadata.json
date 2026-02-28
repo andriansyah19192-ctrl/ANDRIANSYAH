@@ -1,0 +1,5 @@
+{
+  "name": "SI-WARGA",
+  "description": "Sistem Informasi Warga untuk manajemen data kependudukan tingkat RT/RW.",
+  "requestFramePermissions": []
+}
